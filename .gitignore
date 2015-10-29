@@ -45,3 +45,8 @@ storage/cache
 storage/logs
 storage/sessions
 vendor
+
+# Intellij IDEA
+.idea
+*.iml
+
